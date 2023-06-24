@@ -1,0 +1,15 @@
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\PatternModel.AccessData.csproj.AssemblyReference.cache
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\PatternModel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\PatternModel.AccessData.AssemblyInfoInputs.cache
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\PatternModel.AccessData.AssemblyInfo.cs
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\PatternModel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\bin\Debug\net7.0\PatternModel.AccessData.deps.json
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\bin\Debug\net7.0\PatternModel.AccessData.dll
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\bin\Debug\net7.0\PatternModel.AccessData.pdb
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\bin\Debug\net7.0\PatternModel.Shared.dll
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\bin\Debug\net7.0\PatternModel.Shared.pdb
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\PatternModel.AccessData.csproj.CopyComplete
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\PatternModel.AccessData.dll
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\refint\PatternModel.AccessData.dll
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\PatternModel.AccessData.pdb
+C:\Users\alecs\Source\Repos\SecondTry\PatternModel.AccessData\obj\Debug\net7.0\ref\PatternModel.AccessData.dll
